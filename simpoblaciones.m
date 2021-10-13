@@ -1,3 +1,6 @@
+# Transcrito por Richard Marquez del Manual de GNU Octave, seccion 1.2.5
+# Ver el archivo LICENSE
+
 clear all
 close all 
 
