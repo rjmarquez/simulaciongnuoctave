@@ -1,6 +1,6 @@
-# Simulación del control de un péndulo simple
+# SimulaciÃ³n del control de un pÃ©ndulo simple
 # Por Richard Marquez
-# Ver el archivo LICENCE
+# Ver el archivo LICENSE
 
 clear all
 close all
